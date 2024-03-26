@@ -14,5 +14,5 @@
     "gulp-clean": "^0.4.0",
     "prompts": "^2.2.1"
   },
-  "iconPackName": "awdawd"
+  "iconPackName": "focuswriter_icons"
 }

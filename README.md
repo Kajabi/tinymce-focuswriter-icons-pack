@@ -1,3 +1,8 @@
+# Kajabi fork dev notes
+Figma svg source file: https://www.figma.com/file/OflCx3yN3sw5ycMGysO7nZ/tinymce-focuswriter-icons-pack?type=design&t=TJJ4to0XktvYQIxA-6
+
+---
+
 # Oxide Icon Pack Template
 
 This is a template project for creating an Icon Pack for TinyMCE 5. For instructions on how to use this project, [visit the documentation for Create an Icon Pack](https://www.tiny.cloud/docs/advanced/creating-an-icon-pack/).
