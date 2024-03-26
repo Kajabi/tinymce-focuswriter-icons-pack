@@ -7,6 +7,7 @@ export declare const getAll: () => {
   'bold': string;
   'button-large': string;
   'button-medium': string;
+  'button-small': string;
   'checkmark': string;
   'chevron-down': string;
   'chevron-left': string;
@@ -24,7 +25,6 @@ export declare const getAll: () => {
   'new-tab': string;
   'remove-formatting': string;
   'remove': string;
-  'settings-1': string;
   'settings': string;
   'strike-through': string;
   'underline': string;
