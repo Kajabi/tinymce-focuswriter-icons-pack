@@ -2,8 +2,7 @@
 
 This is a template project for creating an Icon Pack for TinyMCE. For instructions on how to use this project, [visit the documentation for Create an Icon Pack](https://www.tiny.cloud/docs/tinymce/latest/creating-an-icon-pack/).
 
-#### Quick guide
-Open a terminal and navigate to the project folder, then
+#### How to use
 
 1. Install dependencies using `npm install`
 2. Place icons in `src/svg`
