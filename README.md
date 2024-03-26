@@ -10,9 +10,9 @@ Open a terminal and navigate to the project folder, then
 3. Run `gulp` to build the icon pack
 4. Copy the contents of the generated icons file `dist/icons/focuswriter_icons/icons.js` to monolith `app/javascript/common/components/FocusWriter/assets/focuswriter_icons/register.js`
 5. Add the path tag `<path d="M0 12H16V16H0V12Z" fill="#D9D9D9" class="tox-icon-highlight-bg-color__color"/>` to the generated `highlight-bg-color` svg
-  - The `highlight-bg-color` color will override the stock icon. Inside of the stock icon there is a special `<path>` to display the active color.
-  - This generator doesn't handle this specific case
-  - UI example 👇
+    - The `highlight-bg-color` color will override the stock icon. Inside of the stock icon there is a special `<path>` to display the active color.
+    - This generator doesn't handle this specific case
+    - UI example 👇
 ![Andrew McIntee Screenshot 2024-03-26 at 05-11-15PM@2x](https://github.com/Kajabi/tinymce-focuswriter-icons-pack/assets/565743/ef89b898-3e29-414a-be14-a815f1298744)
 
 
