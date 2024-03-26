@@ -13,7 +13,8 @@ Open a terminal and navigate to the project folder, then
   - The `highlight-bg-color` color will override the stock icon. Inside of the stock icon there is a special `<path>` to display the active color.
   - This generator doesn't handle this specific case
   - UI example 👇
-![Andrew McIntee Screenshot 2024-03-26 at 05-08-26PM@2x](https://github.com/Kajabi/tinymce-focuswriter-icons-pack/assets/565743/b0d6f5b1-e0c1-43f3-8773-7a9a45943d8e)
+![Andrew McIntee Screenshot 2024-03-26 at 05-11-15PM@2x](https://github.com/Kajabi/tinymce-focuswriter-icons-pack/assets/565743/ef89b898-3e29-414a-be14-a815f1298744)
+
 
 
 
