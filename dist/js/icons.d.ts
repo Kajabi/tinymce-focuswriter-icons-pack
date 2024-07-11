@@ -1,5 +1,6 @@
 export declare const getAll: () => {
   'add-content': string;
+  'adobe-express': string;
   'align-center': string;
   'align-justify': string;
   'align-left': string;
