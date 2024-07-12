@@ -23,3 +23,4 @@ This is a template project for creating an Icon Pack for TinyMCE. For instructio
 
 > UI example of the additional tag usage for `highlight-bg-color`. 👇 It allows TinyMCE to style the icon based on the color selected.
 > ![Andrew McIntee Screenshot 2024-03-26 at 05-11-15PM@2x](https://github.com/Kajabi/tinymce-focuswriter-icons-pack/assets/565743/ef89b898-3e29-414a-be14-a815f1298744)
+
